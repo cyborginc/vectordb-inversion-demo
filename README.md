@@ -1,4 +1,4 @@
-# Embedding Inversion Demo
+# VectorDB Embedding Inversion Demo
 
 This repo contains Jupyter notebooks showcasing inversion embedding attacks on ChromaDB & CyborgDB. More DBs may be added later.
 
